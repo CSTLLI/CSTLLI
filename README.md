@@ -6,7 +6,7 @@
 
 - 👀 Je suis actuellement à la recherche d'une alternance dans le milieu du développement web à Strasbourg
 
-- 🌱 J'étudie en ce moment même tous les langages qui sont fondamentales pour la création d'un site
+- 🌱 J'étudie en ce moment même tous les langages qui sont fondamentaux pour la création d'un site
 
 - 📫 Retrouvez ici tous mes projets scolaires, personnels et professionnels
 <!-- - 💞️ I’m looking to collaborate on ... -->
