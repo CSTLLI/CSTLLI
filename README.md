@@ -51,12 +51,12 @@ Responsive |
   </a>
      
  <p align ="left">
-    Vous aurez accès à tous les exerices faits pendant la Piscine de l'école 19. Etant donné que j'ai réussi l'examen de cette école, les premiers projets du tronc commun sont eux aussi disponibles.
+    Vous aurez accès à tous les exerices faits pendant la Piscine de l'école 19. Etant donné que j'ai réussi l'examen de la piscine, les premiers projets du tronc commun sont eux aussi disponibles.
  </p>
 </div>
      
 - [Piscine 19](https://github.com/CSTLLI/Piscine19)
-- [Cursus 19(Tronc Commun)](https://github.com/CSTLLI/Piscine19)
+- [Cursus 19 (Tronc Commun)](https://github.com/CSTLLI/Piscine19)
      
 # Autres projets
      
