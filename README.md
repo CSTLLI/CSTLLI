@@ -39,7 +39,7 @@
  HTML / CSS | 
  [Dogger](https://github.com/CSTLLI/WF3-Dogger) | [WF3-National](https://github.com/WF3-National/Dogger) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Dogger/index.html)
   [Smartphone](https://github.com/CSTLLI/WF3-Smartphone) | [WF3-National](https://github.com/WF3-National/Smartphone) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Smartphone/index.html)
- [Headphones](https://github.com/CSTLLI/WF3-Headphones/) | [WF3-National](https://github.com/WF3-National/Headphones) | En cours | 13/01/2022 | [Voir]
+ [Headphones](https://github.com/CSTLLI/WF3-Headphones/) | [WF3-National](https://github.com/WF3-National/Headphones) | En cours | 15/01/2022 | [Voir]
 Responsive |
 [One Millions Lines](https://github.com/CSTLLI/WF3-One-Millions-Lines) | [WF3-National](https://github.com/WF3-National/One-Million-Lines) | En cours | 15/01/2022 | [Voir]
 
