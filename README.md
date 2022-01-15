@@ -61,7 +61,7 @@ Responsive |
 # Autres projets
      
 - [Oh My Code ! Je parle le Javascript (Intégration en JS)](https://github.com/CSTLLI/OhMyCode)
-- [OverTheWire (intégration en cybersécurité)](https://github.com/CSTLLI/OverTheWire)
+- [OverTheWire (Intégration en cybersécurité)](https://github.com/CSTLLI/OverTheWire)
  
 ## Ressources
 
