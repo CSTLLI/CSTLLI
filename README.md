@@ -56,7 +56,7 @@ Responsive |
 </div>
      
 - [Piscine 19](https://github.com/CSTLLI/Piscine19)
-- [Cursus (Tronc Commun) 19](https://github.com/CSTLLI/Piscine19)
+- [Cursus 19(Tronc Commun)](https://github.com/CSTLLI/Piscine19)
      
 # Autres projets
      
