@@ -34,8 +34,6 @@
   </p>
 </div>
 
-<br />
-
 | Rubriques | Source du projet | Etat | Dernière Mise à jour | Preview
 |--|--|--|--|--|
  HTML / CSS | 
@@ -44,6 +42,26 @@
  [Headphones](https://github.com/CSTLLI/WebForce3-Projects/tree/master/WF3-01-HTMLandCSS/ProjetHeadphones/Headphones/) | [WF3-National](https://github.com/WF3-National/Headphones) | En cours | 13/01/2022 | [Voir]
 Responsive |
 
+# School 19 (Network 42 School)
+
+<div align="center">
+  <a href="#">
+    <img src="https://images.squarespace-cdn.com/content/v1/52d62550e4b09a1f1b0861f1/1534721345653-5LY9VSH3W6TI9ZIAW9PF/42%2Blogo.png?format=1000w" alt="Logo" width="200" height="100">
+  </a>
+     
+ <p align ="left">
+    Vous aurez accès à tous les exerices faits pendant la Piscine de l'école 19. Etant donné que j'ai réussi l'examen de cette école, les premiers projets du tronc commun sont eux aussi disponibles.
+ </p>
+</div>
+     
+- [Piscine 19](https://github.com/CSTLLI/Piscine19)
+- [Cursus (Tronc Commun) 19](https://github.com/CSTLLI/Piscine19)
+     
+# Autres projets
+     
+- [Oh My Code ! Je parle le Javascript (Intégration en JS)](https://github.com/CSTLLI/OhMyCode)
+- [OverTheWire (intégration en cybersécurité)](https://github.com/CSTLLI/OverTheWire)
+ 
 ## Ressources
 
  - [Lien vers l'éditeur en ligne StackEdit](https://stackedit.io/app#)
