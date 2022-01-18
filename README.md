@@ -11,7 +11,6 @@
 - 🌱 J'étudie en ce moment même tous les langages qui sont fondamentaux pour la création d'un site
 
 - 📫 Retrouvez ici tous mes projets scolaires, personnels et professionnels
-<!-- - 💞️ I’m looking to collaborate on ... -->
 
 # WebForce3
 
@@ -22,15 +21,6 @@
 
   <p align ="left">
     Les projets que vous retrouverez ici seront tous les travaux personnels liés à la formation de développement Web Fullstack WebMobile de l'école WebForce3.
-<!--     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </div>
 
