@@ -62,7 +62,7 @@ Bootstrap |
 - [Oh My Code ! Je parle le Javascript (Intégration en JS)](https://github.com/CSTLLI/OhMyCode)
 - [OverTheWire (Intégration en cybersécurité)](https://github.com/CSTLLI/OverTheWire)
  
-## Ressources
+## Ressources externes
 
  - [Lien vers l'éditeur en ligne StackEdit](https://stackedit.io/app#)
 
