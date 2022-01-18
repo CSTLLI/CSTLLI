@@ -15,7 +15,7 @@
 # WebForce3
 
 <div align="center">
-  <a href="https://www.wf3.fr/">
+  <a href="https://www.wf3.fr/" target="_blank">
     <img style="border-radius: 5px;" src="https://www.frenchtechbordeaux.com/wp-content/uploads/2021/02/WebForce3_logo-violet_JPEG.jpg" alt="Logo" width="200" height="80">
   </a>
 
@@ -41,7 +41,7 @@ Bootstrap |
 # School 19 (Network 42 School)
 
 <div align="center">
-  <a href="https://www.s19.be/">
+  <a href="https://www.s19.be/" target="_blank">
     <img src="https://images.squarespace-cdn.com/content/v1/52d62550e4b09a1f1b0861f1/1534721345653-5LY9VSH3W6TI9ZIAW9PF/42%2Blogo.png?format=1000w" alt="Logo" width="200" height="100">
   </a>
      
