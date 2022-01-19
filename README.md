@@ -1,9 +1,8 @@
-*Template readme.md by me*
-
-<p>
-     <a href="https://github.com/CSTLLI" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-
-     <a href="https://www.linkedin.com/in/cstllii" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p align=center>
+</br>
+<a href="https://github.com/CSTLLI" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+     <a href="https://www.linkedin.com/in/cstllii" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+     
 </p>
 
 # A propos de moi
@@ -73,4 +72,9 @@ Bootstrap |
 ## Ressources externes
 
  - [Lien vers l'éditeur en ligne StackEdit](https://stackedit.io/app#)
+
+## Licence
+
+Toute personne souhaitant ré-utiliser ce template ne doit pas oublier de nommer le nom de l'autheur.
+Template created by CSTLLI.
 
