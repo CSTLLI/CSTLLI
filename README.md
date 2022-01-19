@@ -1,3 +1,5 @@
+*Template readme.md by me*
+
 # A propos de moi
 
 - 👋 Hello, je m'appelle Valerio. Âgé de 23 ans, je suis passionné d’appareils électroniques et des nouvelles technologies 
