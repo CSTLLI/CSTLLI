@@ -2,7 +2,6 @@
 </br>
 <a href="https://github.com/CSTLLI" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
      <a href="https://www.linkedin.com/in/cstllii" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-     
 </p>
 
 # A propos de moi
@@ -18,6 +17,12 @@
 - 🌱 J'étudie en ce moment même tous les langages qui sont fondamentaux pour la création d'un site
 
 - 📫 Retrouvez ici tous mes projets scolaires, personnels et professionnels
+
+<div align=center>
+     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSTLLI)](https://github.com/CSTLLI)
+     
+</div>
 
 # Outils indispensables
 
@@ -72,6 +77,8 @@ Responsive |
 ## Ressources externes
 
  - [Lien vers l'éditeur en ligne StackEdit](https://stackedit.io/app#)
+ - [W3C pour HTML](http://validator.w3.org/#validate_by_uri)
+ - [W3C pour CSS](http://jigsaw.w3.org/css-validator/)
 
 # Licence
 
