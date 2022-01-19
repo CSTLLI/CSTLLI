@@ -73,7 +73,7 @@ Bootstrap |
 
  - [Lien vers l'éditeur en ligne StackEdit](https://stackedit.io/app#)
 
-## Licence
+# Licence
 
 Toute personne souhaitant ré-utiliser ce template ne doit pas oublier de nommer le nom de l'autheur.
 Template created by CSTLLI.
