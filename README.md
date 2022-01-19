@@ -1,5 +1,11 @@
 *Template readme.md by me*
 
+<p>
+     <a href="https://github.com/CSTLLI" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+
+     <a href="https://www.linkedin.com/in/cstllii" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 # A propos de moi
 
 - 👋 Hello, je m'appelle Valerio. Âgé de 23 ans, je suis passionné d’appareils électroniques et des nouvelles technologies 
