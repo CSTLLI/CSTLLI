@@ -48,7 +48,7 @@
  [Dogger](https://github.com/CSTLLI/WF3-Dogger) | [WF3-National](https://github.com/WF3-National/Dogger) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Dogger/index.html)
   [Smartphone](https://github.com/CSTLLI/WF3-Smartphone) | [WF3-National](https://github.com/WF3-National/Smartphone) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Smartphone/index.html)
   [FoodApp](https://github.com/CSTLLI/WF3-FoodApp) | [WF3-National](https://github.com/WF3-National/FoodApp) | Terminé | 18/01/2022 | [Voir](https://castellivalerio.com/projets/FoodApp/index.html)
- [Headphones](https://github.com/CSTLLI/WF3-Headphones) | [WF3-National](https://github.com/WF3-National/Headphones) | Non Commencé | X | [Voir]
+ [Headphones](https://github.com/CSTLLI/WF3-Headphones) | [WF3-National](https://github.com/WF3-National/Headphones) | 90% Terminé | 20/01/2022 | [Voir]
 Responsive |
 [One Millions Lines](https://github.com/CSTLLI/WF3-One-Millions-Lines) | [WF3-National](https://github.com/WF3-National/One-Million-Lines) | Terminé | 16/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-Lines/index.html)
 [Unicorn](https://github.com/CSTLLI/WF3-Unicorn) | [WF3-National](https://github.com/WF3-National/Unicorn) | Terminé | 17/01/2022 | [Voir](https://castellivalerio.com/projets/Unicorn/index.html)
