@@ -57,7 +57,7 @@ Responsive |
 [One Millions Lines (version Bootstrap)](https://github.com/CSTLLI/WF3-One-Millions-LinesBootstrap) | [WF3-National](https://github.com/WF3-National/One-Million-Lines-Bootstrap) | Terminé | 19/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-LinesBootstrap/index.html)
 Space | [WF3-National](https://github.com/WF3-National/Space) | Non commencé | | |
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
-PlusOuMoins V2 | | Terminé | 28/01/22 | | [Voir](https://castellivalerio.com/projets/PlusOuMoinsV2/)|
+PlusOuMoins V2 | | Terminé | 28/01/22 | |[Voir](https://castellivalerio.com/projets/PlusOuMoinsV2/) |
 
 # School 19 (Network 42 School)
 
