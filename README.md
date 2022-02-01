@@ -45,16 +45,16 @@
 | Rubriques | Source du projet | Etat | Dernière Mise à jour | Preview
 |--|--|--|--|--|
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | 
- [Dogger](https://github.com/CSTLLI/WF3-Dogger) | [WF3-National](https://github.com/WF3-National/Dogger) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Dogger/index.html)
-  [Smartphone](https://github.com/CSTLLI/WF3-Smartphone) | [WF3-National](https://github.com/WF3-National/Smartphone) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Smartphone/index.html)
-  [FoodApp](https://github.com/CSTLLI/WF3-FoodApp) | [WF3-National](https://github.com/WF3-National/FoodApp) | Terminé | 18/01/2022 | [Voir](https://castellivalerio.com/projets/FoodApp/index.html)
- [Headphones](https://github.com/CSTLLI/WF3-Headphones) | [WF3-National](https://github.com/WF3-National/Headphones) | Terminé | 23/01/2022 | [Voir](https://castellivalerio.com/projets/Headphones/index.html)
+ [Dogger](https://github.com/CSTLLI/WF3-Dogger) | [WF3-National](https://github.com/WF3-National/Dogger) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Dogger/)
+  [Smartphone](https://github.com/CSTLLI/WF3-Smartphone) | [WF3-National](https://github.com/WF3-National/Smartphone) | Terminé | 15/01/2022 | [Voir](https://castellivalerio.com/projets/Smartphone/)
+  [FoodApp](https://github.com/CSTLLI/WF3-FoodApp) | [WF3-National](https://github.com/WF3-National/FoodApp) | Terminé | 18/01/2022 | [Voir](https://castellivalerio.com/projets/FoodApp/)
+ [Headphones](https://github.com/CSTLLI/WF3-Headphones) | [WF3-National](https://github.com/WF3-National/Headphones) | Terminé | 23/01/2022 | [Voir](https://castellivalerio.com/projets/Headphones/)
 Responsive |
-[One Millions Lines](https://github.com/CSTLLI/WF3-One-Millions-Lines) | [WF3-National](https://github.com/WF3-National/One-Million-Lines) | Terminé | 16/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-Lines/index.html)
-[Unicorn](https://github.com/CSTLLI/WF3-Unicorn) | [WF3-National](https://github.com/WF3-National/Unicorn) | Terminé | 17/01/2022 | [Voir](https://castellivalerio.com/projets/Unicorn/index.html)
-[Pizzeria](https://github.com/CSTLLI/WF3-Pizzeria) | [WF3-National](https://github.com/WF3-National/Pizzeria) | Terminé | 19/01/2022 | [Voir](https://castellivalerio.com/projets/Pizzeria/index.html)
+[One Millions Lines](https://github.com/CSTLLI/WF3-One-Millions-Lines) | [WF3-National](https://github.com/WF3-National/One-Million-Lines) | Terminé | 16/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-Lines/)
+[Unicorn](https://github.com/CSTLLI/WF3-Unicorn) | [WF3-National](https://github.com/WF3-National/Unicorn) | Terminé | 17/01/2022 | [Voir](https://castellivalerio.com/projets/Unicorn/)
+[Pizzeria](https://github.com/CSTLLI/WF3-Pizzeria) | [WF3-National](https://github.com/WF3-National/Pizzeria) | Terminé | 19/01/2022 | [Voir](https://castellivalerio.com/projets/Pizzeria/)
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> |
-[One Millions Lines (version Bootstrap)](https://github.com/CSTLLI/WF3-One-Millions-LinesBootstrap) | [WF3-National](https://github.com/WF3-National/One-Million-Lines-Bootstrap) | Terminé | 19/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-LinesBootstrap/index.html)
+[One Millions Lines (version Bootstrap)](https://github.com/CSTLLI/WF3-One-Millions-LinesBootstrap) | [WF3-National](https://github.com/WF3-National/One-Million-Lines-Bootstrap) | Terminé | 19/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-LinesBootstrap/)
 Space | [WF3-National](https://github.com/WF3-National/Space) | Non commencé | | |
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
 [PlusOuMoins V2](https://github.com/CSTLLI/PlusOuMoinsV2) | | Terminé | 28/01/22 | [Voir](https://castellivalerio.com/projets/PlusOuMoinsV2/) |
