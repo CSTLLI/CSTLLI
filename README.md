@@ -26,9 +26,9 @@
      
 </div>
 
-# Outils indispensables
+<!-- # Outils indispensables
 
-- [Template HTML/CSS by CSTLLI](https://github.com/CSTLLI/WF3-TemplateHTMLCSS)
+- [Template HTML/CSS by CSTLLI](https://github.com/CSTLLI/WF3-TemplateHTMLCSS) -->
 
 # WebForce3
 
