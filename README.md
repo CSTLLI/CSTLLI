@@ -57,7 +57,7 @@ Responsive |
 [One Millions Lines (version Bootstrap)](https://github.com/CSTLLI/WF3-One-Millions-LinesBootstrap) | [WF3-National](https://github.com/WF3-National/One-Million-Lines-Bootstrap) | Terminé | 19/01/2022 | [Voir](https://castellivalerio.com/projets/One-Millions-LinesBootstrap/)
 Space | [WF3-National](https://github.com/WF3-National/Space) | Non commencé | | |
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
-[PlusOuMoins V2](https://github.com/CSTLLI/PlusOuMoinsV2) | | Terminé | 28/01/22 | [Voir](https://castellivalerio.com/projets/PlusOuMoinsV2/) |
+[PlusOuMoins V2](https://github.com/CSTLLI/PlusOuMoinsV2) | | Terminé | 28/01/2022 | [Voir](https://castellivalerio.com/projets/PlusOuMoinsV2/) |
 [Formulaire](https://github.com/CSTLLI/WF3-Formulaire) | | Terminé | 01/02/2022 | [Voir](https://castellivalerio.com/projets/Formulaire/) |
 [Gestion des stocks](https://github.com/CSTLLI/WF3-GestionStocks) | | Terminé | 03/02/2022 | [Voir](https://castellivalerio.com/projets/GestionStocks/) |
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> |
