@@ -61,7 +61,12 @@ Space | [WF3-National](https://github.com/WF3-National/Space) | Non commencé | 
 [Formulaire](https://github.com/CSTLLI/WF3-Formulaire) | | Terminé | 01/02/2022 | [Voir](https://castellivalerio.com/projets/Formulaire/) |
 [Gestion des stocks](https://github.com/CSTLLI/WF3-GestionStocks) | | Terminé | 03/02/2022 | [Voir](https://castellivalerio.com/projets/GestionStocks/) |
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> |
-[Calculatrice V3](https://github.com/CSTLLI/WF3-CalculatricePHP) | | Terminé | 15/02/2022 | [Voir]
+[Calculatrice V3](https://github.com/CSTLLI/WF3-CalculatricePHP) | | Terminé | 15/02/2022 | [Voir] |
+[Fichiers](https://github.com/CSTLLI/WF3-Fichiers) | | Terminé | 18/02/2022 | [Voir] |
+[Login](https://github.com/CSTLLI/WF3-Login) | | Terminé | 21/02/2022 | [Voir] |
+[CRUD](https://github.com/CSTLLI/WF3-CRUD) | | Terminé | 25/02/2022 | [Voir] |
+
+
 
 # School 19 (Network 42 School)
 
