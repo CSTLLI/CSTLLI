@@ -7,7 +7,7 @@
 
 # A propos de moi
 
-- 👋 Hello, je m'appelle Valerio. Âgé de 23 ans, je suis passionné d’appareils électroniques et des nouvelles technologies 
+- 👋 Hello, je m'appelle Valerio. Âgé de 24 ans, je suis passionné d’appareils électroniques et des nouvelles technologies 
      depuis tout petit. Mes premiers projets personnels ont commencé dès le collège en 
      faisant des modélisations et des animations 3D puis de la programmation et de la réalité 
      augmentée vers le lycée. En plus d’être étudiant, j’applique mes connaissances en tant 
