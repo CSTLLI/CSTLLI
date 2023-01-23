@@ -64,7 +64,7 @@ Space | [WF3-National](https://github.com/WF3-National/Space) | Non commencé | 
 [Real Estate](https://github.com/CSTLLI/WF3-RealEstate) | | Terminé | 07/03/2022 | [Voir]
 [Quiz Game](https://github.com/CSTLLI/WF3-QUIZ_GAME) | | Terminé | 16/04/2022 | [Voir]
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> |
-Parallel | | En cours | 06/09/2022 | [Voir]
+Parallel | | Terminé | 06/09/2022 | [Voir]
 
 
 
