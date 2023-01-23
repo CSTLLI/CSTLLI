@@ -7,15 +7,12 @@
 
 # A propos de moi
 
-- 👋 Hello, je m'appelle Valerio. Âgé de 24 ans, je suis passionné d’appareils électroniques et des nouvelles technologies 
-     depuis tout petit. Mes premiers projets personnels ont commencé dès le collège en 
-     faisant des modélisations et des animations 3D puis de la programmation et de la réalité 
-     augmentée vers le lycée. En plus d’être étudiant, j’applique mes connaissances en tant 
-     qu’auto-entrepreneur.
+- 👋 Âgé de 24 ans, je suis passionné d'appareils électroniques et des nouvelles technologiques depuis tout petit. Mes premiers projets personnels ont commencé dès le collège en faisant des modélisations et des animations 3D puis de la programmation et de la réalité augmentée vers le lycée.
 
-- 👀 Je suis actuellement alternant dans le milieu du développement web à Strasbourg
+- 👀 De 2018 à 2021, j'appliquais mes connaissances en tant que formateur. Motivé et intéressé par le fait de pouvoir partager mon expérience, je proposais mes services sous forme de cours ou d'assistance informatique.
 
-- 🌱 J'étudie en ce moment même tous les langages qui sont fondamentaux pour la création d'un site
+- 🌱 Dorénavant, j'ai élargi mes compétences de développeur et je suis apte à proposer mes services de programmation en tant que freelance.
+En plus de ça, je valide mes acquis en faisant des formations certifiantes dans le développement Web.
 
 - 📫 Retrouvez ici tous mes projets scolaires, personnels et professionnels
 
