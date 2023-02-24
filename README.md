@@ -81,7 +81,7 @@ Parallel | | Terminé | 06/09/2022 | [Voir]
 </div>
      
 - [Piscine 19](https://github.com/CSTLLI/Piscine19)
-- [Cursus 19 (Tronc Commun)](https://github.com/CSTLLI/Piscine19)
+- [Cursus 19 (Tronc Commun)](https://github.com/CSTLLI/Cursus19)
      
 # Autres projets
      
