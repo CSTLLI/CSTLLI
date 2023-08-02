@@ -5,17 +5,6 @@
 <!-- <a href="https://www.castellivalerio.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 </p>
 
-# A propos de moi
-
-- 👋 Âgé de 24 ans, je suis passionné d'appareils électroniques et des nouvelles technologiques depuis tout petit. Mes premiers projets personnels ont commencé dès le collège en faisant des modélisations et des animations 3D puis de la programmation et de la réalité augmentée vers le lycée.
-
-- 👀 De 2018 à 2021, j'appliquais mes connaissances en tant que formateur. Motivé et intéressé par le fait de pouvoir partager mon expérience, je proposais mes services sous forme de cours ou d'assistance informatique.
-
-- 🌱 Dorénavant, j'ai élargi mes compétences de développeur et je suis apte à proposer mes services de programmation en tant que freelance.
-En plus de ça, je valide mes acquis en faisant des formations certifiantes dans le développement Web.
-
-- 📫 Retrouvez ici tous mes projets scolaires, personnels et professionnels
-
 <div align=center>
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSTLLI)](https://github.com/CSTLLI)
