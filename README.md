@@ -30,7 +30,7 @@
 | Rubriques | Source du projet | Etat | Dernière Mise à jour | Preview
 |--|--|--|--|--|
 <img src="https://img.shields.io/badge/-React%20Native-5667F9?style=for-the-badge&logo=openai&logoColor=white"> | 
- [Space Operators](https://github.com/CSTLLI/space-operators-react-native) | / | Terminé | 17/05/2024 | Use Expo
+ [Space Operators](https://github.com/CSTLLI/space-operators-react-native) | / | Terminé | 17/05/2024 | [Prototype Figma](https://www.figma.com/design/focMglPILeQpcCTwM2TtkO/Space-Operators?node-id=0-1&t=VDuy5DeumDKlnRgK-1)
 
 # WebForce3
 
